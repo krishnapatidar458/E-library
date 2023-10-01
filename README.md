@@ -2,7 +2,7 @@
 
 Welcome to the E-Library project! This repository is dedicated to building an open-source electronic library system using PHP, XAMPP server, HTML, CSS, JavaScript, and it is licensed under the GNU General Public License. The E-Library project allows users to browse, search, and access a collection of digital books, documents, and educational resources. We encourage you to contribute to this project and help make it better.
 
-![E-Library Screenshot](e-library-screenshot.png)
+![E-Library Screenshot](https://drive.google.com/file/d/1JkWo3zAz0g88bbuEMx2kC0kTic3DWfen/view?usp=drive_link)
 
 ## Table of Contents
 
